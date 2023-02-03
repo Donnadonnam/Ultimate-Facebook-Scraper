@@ -1,23 +1,23 @@
-<a href="#">
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" width='154'/>
-  </div>
-</a>
+#    <a href="#">
+#    <div align="center">
+#    <img src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" width='154'/>
+#    </div>
+#    </a>
 
-<h1 align="center">Ultimate Facebook Scraper - UFS</h1>
-<h3 align="center"> The ultimate Facebook Data Collection Software for: <i>Businesses, Sales & Marketing People and Researchers</i></h3>
-<hr>
+#    <h1 align="center">Ultimate Facebook Scraper - UFS</h1>
+#    <h3 align="center"> The ultimate Facebook Data Collection Software for: <i>Businesses, Sales & Marketing People and Researchers</i></h3>
+#    <hr>
 
-<p align="center">
+#               <p align="center">
   Software that <b>automates</b> your social media interactions to collect posts (text, likes/reactions, comments etc), photos, interests (likes), bio data (contact details etc), videos, friends, followers and much more on Facebook. 
-</p>
+                       </p>
 
-<hr>
+                       <hr>
 
 <h3 align="center">Sounds interesting? <a href="#price-">Purchase 🤝</a></h3>
-<hr>
+                       <hr>
 
-<p align="center">
+                <p align="center">
   
   <a href="https://wander-lush.org/most-beautiful-places-in-pakistan/">
     <img src="https://media.gettyimages.com/videos/pakistan-flag-video-id1161759219?s=640x640" target="_blank" width="250">
